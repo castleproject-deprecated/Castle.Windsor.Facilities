@@ -1,0 +1,24 @@
+
+/build
+AssemblyInfo.cs
+
+# Standard VS.NET and ReSharper Foo
+.vs/*
+src/*/obj
+src/*/bin
+samples/*/obj
+samples/*/bin
+*.csproj.user
+*ReSharper.user
+_ReSharper*
+*.suo
+*.cache
+* Thumbs.db
+
+#leftovers from merge
+*.orig
+*.bak
+*.sln.DotSettings.user
+*.DotSettings.user
+buildscripts/**/obj/
+buildscripts/**/bin/
